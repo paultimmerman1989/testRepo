@@ -1,1 +1,1 @@
-print("Hello from GitHub!")
+print("This is a new feature of branch!")
